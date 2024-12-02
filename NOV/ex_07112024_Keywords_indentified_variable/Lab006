@@ -1,0 +1,7 @@
+age=34 # integer-int
+PI=3.14 # float- decimal
+name-"Mehak" # string- string is bunch of characters-->str
+
+# age= 34
+#age =variable_name ->identifier
+#variable name=identifier

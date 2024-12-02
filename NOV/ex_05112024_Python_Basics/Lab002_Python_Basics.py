@@ -1,0 +1,7 @@
+print(2+2)
+print(2-2)
+print(2*2)
+print(2/2)
+print(2%2)
+print("Hello world!!")
+print("Mehak Saini!!")
