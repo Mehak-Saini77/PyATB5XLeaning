@@ -1,6 +1,6 @@
-A=int(input("Enter the value 1-->"))
-B=int(input("Enter the value 1-->"))
-C=int(input("Enter the value 1-->"))
+A=float(input("Enter the value 1-->"))
+B=float(input("Enter the value 1-->"))
+C=float(input("Enter the value 1-->"))
 
 SUM=A+B+C
 SUB=A-B-C
