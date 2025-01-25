@@ -1,4 +1,4 @@
-# divmod-->it it return a tuple ,this function is build in function and used in to five the remainder,quotient ,it is take 2 arguments
+# divmod-->it it return a tuple ,this function is build in function and used in to find the remainder,quotient ,it is take 2 arguments
 q,r=divmod(13,2)
 print(r,q)
 
