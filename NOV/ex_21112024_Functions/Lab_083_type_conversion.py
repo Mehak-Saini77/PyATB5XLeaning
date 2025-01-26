@@ -1,0 +1,20 @@
+a="10"
+print(type(a))
+
+a=int(a)
+print(type(a))
+a=float(a)
+print(type(a))
+a= str(a)
+print(type(a))
+a=bool(a)
+print(type(a))
+b=10
+b=list(b)
+print(type(a))
+a=tuple(a)
+print(type(a))
+a=dict(a)
+print(type(a))
+complex(a)
+print(type(a))
